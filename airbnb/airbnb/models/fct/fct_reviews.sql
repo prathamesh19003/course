@@ -1,7 +1,6 @@
 {{
   config(
-    materialized = 'incremental',
-    on_schema_change = 'fail'
+    materialized = 'incremental'
     )
 }}
 WITH src_reviews AS (

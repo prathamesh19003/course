@@ -47,6 +47,3 @@ models:
 
     fct:
       +tags: ["fact"]
-
-vars:
-  user_name: Prathamesh
